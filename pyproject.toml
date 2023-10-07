@@ -2,6 +2,9 @@
 requires = [
     "setuptools>=42",
     "wheel",
-    "colorama"
+    "colorama",
+    "pygame",
+    "os",
+    "pathlib"
 ]
 build-backend = "setuptools.build_meta"
