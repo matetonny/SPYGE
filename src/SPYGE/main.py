@@ -1,4 +1,4 @@
-import pygame
+import tkinter as tk
 import colorama
 import os
 import pathlib
